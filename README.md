@@ -22,7 +22,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [qr.hassanaamer.com](exquisite-queijadas-d162b1.netlify.app)
+- Live Site URL: [qr.hassanaamer.com](http://exquisite-queijadas-d162b1.netlify.app)
 
 ## My process
 
