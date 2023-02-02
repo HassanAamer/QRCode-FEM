@@ -21,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/qr-code-using-semantic-html-and-css-7ZgjH0vyKO)
 - Live Site URL: [qr.hassanaamer.com](http://exquisite-queijadas-d162b1.netlify.app)
 
 ## My process
